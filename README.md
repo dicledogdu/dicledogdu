@@ -14,9 +14,11 @@
 
 ### 🌱 About Me
 
-Software Engineering student passionate about backend development and scalable systems.
+🤖 I'm a Software Engineering student at Fırat University.
 
-I enjoy designing clean architectures, building REST APIs, and experimenting with AI-powered solutions.
+🌱 I’m actively working on Full-Stack (HTML, CSS, Bootstrap, Vue.js, Laravel).
+
+📫 Reach me: dicle.dogdu@gmail.com
 
 📍 Based in Türkiye
 
