@@ -8,18 +8,15 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Currently%20Working-Laravel%20%7C%20Next.js-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI-MobileNetV2%20%7C%20Computer%20Vision-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Location-Elazığ-green?style=for-the-badge"/>
 </p>
 
 ---
 
 ### 🌱 About Me
 
-- 🚀 Web Developer at Fırat University Digital Transformation Office  
-- 🏗 Building enterprise systems serving 40,000+ users  
-- 💻 Backend-focused Full-Stack Developer  
-- 🤖 Interested in AI, RAG systems & scalable architectures  
-- 🎓 B.Sc. Software Engineering (GPA 3.2)
+Software Engineering student passionate about backend development and scalable systems.
+
+I enjoy designing clean architectures, building REST APIs, and experimenting with AI-powered solutions.
 
 📍 Based in Türkiye
 
@@ -38,20 +35,46 @@
 
 ---
 
-## 🛠 Languages & Tools
-
 <p align="center">
+
+<!-- Programming Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+
+<br/>
+
+<!-- Frontend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="45"/>
+
+<br/>
+
+<!-- Backend & Database -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+
+<br/>
+
+<!-- AI & ML -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45"/>
+
+<br/>
+
+<!-- Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+
 </p>
 
 ---
