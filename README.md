@@ -30,9 +30,6 @@
 <a href="https://linkedin.com/in/şevval-dicle-doğdu-048648264" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
 </a>
-<a href="https://github.com/dicledogdu" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" />
-</a>
 </p>
 
 ---
@@ -81,14 +78,6 @@
 
 ---
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dicledogdu&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicledogdu&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🏆 Activity Graph
 
